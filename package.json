@@ -1,0 +1,26 @@
+{
+  "name": "bitcoinnext",
+  "version": "1.0.0",
+  "description": "bitcoin app learning next",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramomex1/bitcoinNext.git"
+  },
+  "author": "emmanuel lohora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramomex1/bitcoinNext/issues"
+  },
+  "homepage": "https://github.com/ramomex1/bitcoinNext#readme",
+  "dependencies": {
+    "next": "^9.0.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
