@@ -1,0 +1,6 @@
+
+instalar next react y react-dom
+agregar los scripts para correr next
+crear el folder de pages
+creaer un master page
+
